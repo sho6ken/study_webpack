@@ -1,7 +1,7 @@
 const path = require('path');
 
 /**
- * 
+ * 通用配置
  */
 module.exports = {
     // 文件入口
