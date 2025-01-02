@@ -23,3 +23,6 @@
 - `npm i -D webpack-merge`: 合併多個webpack config
 
 - `npm install --save-dev webpack-obfuscator`: webpack代碼混淆
+
+## 產出
+- `npm build -dev`: 產出開發包
