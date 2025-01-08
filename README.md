@@ -1,5 +1,3 @@
-# 練習node.js的webpack
-
 ## 工作目錄
 
 - `cmd`: 開啟終端機
